@@ -1,2 +1,5 @@
 hello
+<<<<<<< HEAD
 good hello
+=======
+>>>>>>> parent of d86dc9b... I fixed the thing that was wrong
